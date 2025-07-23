@@ -19,7 +19,13 @@ A simple command-line quiz application written in C++. The app reads multiple-ch
 ```bash
 g++ main.cpp -o quiz
 ./quiz
-
+```
 ### On Windows:
+```
 g++ main.cpp -o quiz.exe
 quiz.exe
+```
+---
+Author  
+Created by [Apeksha Bharti](https://github.com/apeksha-118)
+---
